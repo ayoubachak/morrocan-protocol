@@ -15,3 +15,5 @@ Example of every moroccan salutation ( especially with relatives ):
 * My Uncle : How have you been lately?
 * My Uncle : How are you feeling today?
 * Me : >:( 
+
+as I've been moroccan for quite a while now, I felt that was like a sort of protocol where the server ( the uncle ) just keeps checking on the client, until he's bored, or the ram is full.
